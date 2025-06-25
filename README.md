@@ -1,5 +1,11 @@
 # Trabajo-Titulacion
-Archvios relacionados con el trabajo de titualción 
+Archvios relacionados con el trabajo de titualción de Luis Antonio Andrade Matute
+
+Universidad de Cuenca
+
+Facultad de Ingeniería
+
+Carrera de Telecomuniaciones
 
 ## Directorio 3D
 En este directorio puede encontrar el modelado 3D de los componentes físicos del sistema, tanto la versión para Blender como el exportado hacia Godot
