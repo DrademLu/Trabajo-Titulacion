@@ -10,3 +10,7 @@ la ejecución y funcionamiento adecuado del _software_
 Al ejecutar DTSistemaMultitanque.exe, se genera la interfaz:
 
 ![Intefaz del ejecutable](Interfaz.png)
+
+- **Modo Cliente:** Para usar este modo, se requiere tener conexión con la red WiFi SMT o SMT-5G
+- **Modo Servidor:** Este modo puede ser utilizado en cualquier lugar.
+- **Registro de datos:** Para activar correctamente este modo, se requiere haber utilizado el modo cliente o modo servidor al menos 1 vez.
