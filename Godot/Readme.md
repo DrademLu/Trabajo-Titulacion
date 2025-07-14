@@ -6,3 +6,7 @@ la ejecución y funcionamiento adecuado del _software_
 
 
 [Link hacia las librerías dinámicas y ejecutable](https://drive.google.com/drive/folders/1i17hmzPmzjWjYNUF0QjTQwvMSmYzGt4T?usp=sharing)
+
+Al ejecutar DTSistemaMultitanque.exe, se genera la interfaz:
+
+![Intefaz del ejecutable](Interfaz.png)
