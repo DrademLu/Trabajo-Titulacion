@@ -9,4 +9,4 @@ la ejecución y funcionamiento adecuado del _software_
 
 Al ejecutar DTSistemaMultitanque.exe, se genera la interfaz:
 
-![Intefaz del ejecutable](../Imagens/Interfaz.png)
+![Intefaz del ejecutable](Interfaz.png)
