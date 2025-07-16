@@ -29,3 +29,6 @@ En este directorio puede encontrar los scripts utilizados para la evaluación fi
 - Archivos .ipynb pueden ser ejecutados en VSCode, con Jupyter Notebooks instalado. Solo existen 2 archivos que recopilan todos los .py:
   1. RecopilarDatos.ipynb, recopila los scripts para la comparación de operación entre el sistema físico y el sistema digital.
   2. AnalisisTemporalEstados.ipynb, recopila los scripts para la recopilación de estadisticas de funcionamiento, entre uso de memoría, latencia de la comuniación así como la recopilación de datos para comparar el sistema físico con el sistema digital.
+
+Se encuentra también disponible el PDF Manual de Uso, indicando los controles que deberá utilizar el usuario para moverse en el _software_ así 
+como para controlar las válvulas.
